@@ -1,0 +1,86 @@
+@media only screen and (max-width: 992px ) {
+    #bootstrap-overrides .responsiveD-block{
+        display: block !important;
+    }
+    #bootstrap-overrides #welcome{
+        margin-top:0px !important;
+    }
+    #bootstrap-overrides header {
+        margin-bottom: 15px !important;
+    }
+    #hamburger{
+        display: block !important;
+    }
+    #navHeader{
+        display: none !important;
+    }
+    #welcome{
+        display: block!important;
+    }
+    #welcomeFirstArticle{
+        margin-bottom: 25px;
+    }
+    #welcomeWomen , #welcomeKids{
+        margin-right:0px;
+    } 
+    #welcomeWomen,#welcomeMen,#welcomeKids,#welcomeAccessories{
+        padding: 40px 0;
+        font-size: 12px;
+    }
+    .respon-font-14{
+        font-size: 20px !important;
+    }
+    .respon-font-13{
+        font-size: 17px !important;
+    }
+    .respon-font-12{
+        font-size:12px !important;
+    }
+    /*STRANICA PROIZVODI*/
+    #divZaFiltriranje{
+        display :none ;
+    }
+
+    main>#sortiranje-Pretraga{
+        display: block !important;
+    }
+    main #ikonicaZaFiltriranje{
+        display:flex !important;
+        align-items: center;
+    }
+    #pretraga{
+        width:100% !important;
+    }
+    #sortiranje-Pretraga :first-child{
+        margin-bottom: 15px !important;
+    }
+}
+
+
+@media only screen and (max-width: 577px ) {
+  
+    #welcomeSecondArticle>div{
+      display: block !important;
+  }
+  #welcomeAccessories{
+      margin-top: 20px;
+  }
+  #side{
+      top:70vmax !important;
+  }
+  #soc>li{
+      margin:10px 0 10px 0;
+  }
+  .arrow-right{
+      right:5px;
+  }
+  #povezimoSe :nth-child(2){
+    padding: 0px 0px 0px 0px;
+  }
+  #modal{
+      padding: 15px;
+  }
+  #baner{
+    padding:50px !important;
+  }
+}

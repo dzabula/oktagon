@@ -1,0 +1,540 @@
+[{
+    "id":1,
+    "naziv":"La Cross Jakna",
+    "kategorijaId":[1],
+    "pol":"m", 
+    "brendId":1,
+    "cena":{
+        "staraCena":14500,
+        "aktuelnaCena":11999
+    },
+    "slika":"assets/img/men-01.jpg",
+    "ocena":4,
+    "najProdavaniji":true,
+    "sezona":{
+        "id":1,
+        "naziv":"zima"
+    }
+},
+{
+    "id":2,
+    "naziv":"Quad Duks-Jakna",
+    "kategorijaId":[1,2],
+    "pol":"m", 
+    "brendId":2,
+    "cena":{
+        "staraCena":"",
+        "aktuelnaCena":8999
+    },
+    "slika":"assets/img/men-02.jpg",
+    "ocena":4,
+    "najProdavaniji":true,
+    "sezona":{
+        "id":1,
+        "naziv":"zima"
+    }
+},
+{
+    "id":3,
+    "naziv":"Mouse Duks-Majca",
+    "kategorijaId":[2,3],
+    "pol":"m", 
+    "brendId":3,
+    "cena":{
+        "staraCena":2999,
+        "aktuelnaCena":2499
+    },
+    "slika":"assets/img/men-03.jpg",
+    "ocena":3,
+    "najProdavaniji":true,
+    "sezona":{
+        "id":1,
+        "naziv":"zima"
+    }
+},
+{
+    "id":4,
+    "naziv":"MonDavido Sako",
+    "kategorijaId":[4],
+    "pol":"m", 
+    "brendId":5,
+    "cena":{
+        "staraCena":9999,
+        "aktuelnaCena":8999
+    },
+    "slika":"assets/img/men-04.jpg",
+    "ocena":5,
+    "najProdavaniji":true,
+    "sezona":{
+        "id":1,
+        "naziv":"zima"
+    }
+},
+{
+    "id":5,
+    "naziv":"Raul Odelo",
+    "kategorijaId":[4],
+    "pol":"m", 
+    "brendId":5,
+    "cena":{
+        "staraCena":11999,
+        "aktuelnaCena":9999
+    },
+    "slika":"assets/img/men-05.jpg",
+    "ocena":5,
+    "najProdavaniji":true,
+    "sezona":{
+        "id":1,
+        "naziv":"zima"
+    }
+},
+{
+    "id":6,
+    "naziv":"Bougher Sako-Jakna",
+    "kategorijaId":[1,4],
+    "pol":"z", 
+    "brendId":5,
+    "cena":{
+        "staraCena":7999,
+        "aktuelnaCena":6999
+    },
+    "slika":"assets/img/women-01.jpg",
+    "ocena":4,
+    "najProdavaniji":true,
+    "sezona":{
+        "id":1,
+        "naziv":"zima"
+    }
+},
+{
+    "id":7,
+    "naziv":"Lady Haljina",
+    "kategorijaId":[5],
+    "pol":"z", 
+    "brendId":6,
+    "cena":{
+        "staraCena":"",
+        "aktuelnaCena":2999
+    },
+    "slika":"assets/img/women-02.jpg",
+    "ocena":3,
+    "najProdavaniji":true,
+    "sezona":{
+        "id":2,
+        "naziv":"leto"
+    }
+},
+{
+    "id":8,
+    "naziv":"Rouz Dzemper",
+    "kategorijaId":[2,6],
+    "pol":"z", 
+    "brendId":6,
+    "cena":{
+        "staraCena":4599,
+        "aktuelnaCena":3999
+    },
+    "slika":"assets/img/women-03.jpg",
+    "ocena":4,
+    "najProdavaniji":true,
+    "sezona":{
+        "id":1,
+        "naziv":"zima"
+    }
+},
+{
+    "id":9,
+    "naziv":"Gucci Kaput",
+    "kategorijaId":[1],
+    "pol":"z", 
+    "brendId":7,
+    "cena":{
+        "staraCena":9999,
+        "aktuelnaCena":7999
+    },
+    "slika":"assets/img/women-04.jpg",
+    "ocena":5,
+    "najProdavaniji":true,
+    "sezona":{
+        "id":1,
+        "naziv":"zima"
+    }
+},
+{
+    "id":10,
+    "naziv":"Rouzy Šuškavac",
+    "kategorijaId":[1,2],
+    "pol":"z", 
+    "brendId":2,
+    "cena":{
+        "staraCena":"",
+        "aktuelnaCena":4999
+    },
+    "slika":"assets/img/women-05.jpg",
+    "ocena":2,
+    "najProdavaniji":true,
+    "sezona":{
+        "id":1,
+        "naziv":"zima"
+    }
+},
+{
+    "id":11,
+    "naziv":"Mozaik Tunikaa",
+    "kategorijaId":[3],
+    "pol":"z", 
+    "brendId":3,
+    "cena":{
+        "staraCena":6899,
+        "aktuelnaCena":5999
+    },
+    "slika":"assets/img/women-06.jpg",
+    "ocena":5,
+    "najProdavaniji":true,
+    "sezona":{
+        "id":2,
+        "naziv":"leto"
+    }
+},
+{
+    "id":12,
+    "naziv":"Boby Košulja",
+    "kategorijaId":[1,7],
+    "pol":"k", 
+    "brendId":3,
+    "cena":{
+        "staraCena":"",
+        "aktuelnaCena":4199
+    },
+    "slika":"assets/img/kid-01.jpg",
+    "ocena":5,
+    "najProdavaniji":true,
+    "sezona":{
+        "id":1,
+        "naziv":"zima"
+    }
+},
+{
+    "id":13,
+    "naziv":"Sky Košulja",
+    "kategorijaId":[3,7],
+    "pol":"k", 
+    "brendId":7,
+    "cena":{
+        "staraCena":"",
+        "aktuelnaCena":5999
+    },
+    "slika":"assets/img/kid-02.jpg",
+    "ocena":2,
+    "najProdavaniji":true,
+    "sezona":{
+        "id":2,
+        "naziv":"leto"
+    }
+},
+{
+    "id":14,
+    "naziv":"Toy Boy Odelce",
+    "kategorijaId":[3,4,7],
+    "pol":"k", 
+    "brendId":8,
+    "cena":{
+        "staraCena":"",
+        "aktuelnaCena":19999
+    },
+    "slika":"assets/img/kid-03.jpg",
+    "ocena":5,
+    "najProdavaniji":true,
+    "sezona":{
+        "id":2,
+        "naziv":"leto"
+    }
+},
+{
+    "id":15,
+    "naziv":"Loud Jakna Kosluja",
+    "kategorijaId":[1,7],
+    "pol":"k", 
+    "brendId":4,
+    "cena":{
+        "staraCena":"",
+        "aktuelnaCena":9099
+    },
+    "slika":"assets/img/kid-04.jpg",
+    "ocena":2,
+    "najProdavaniji":true,
+    "sezona":{
+        "id":1,
+        "naziv":"zima"
+    }
+},
+{
+    "id":16,
+    "naziv":"Alfa Kid Košulja",
+    "kategorijaId":[3,7],
+    "pol":"k", 
+    "brendId":5,
+    "cena":{
+        "staraCena":6599,
+        "aktuelnaCena":4999
+    },
+    "slika":"assets/img/kid-05.jpg",
+    "ocena":4,
+    "najProdavaniji":true,
+    "sezona":{
+        "id":2,
+        "naziv":"leto"
+    }
+},
+{
+    "id":17,
+    "naziv":"Komplet haljina + pidzama",
+    "kategorijaId":[5,8],
+    "pol":"k", 
+    "brendId":4,
+    "cena":{
+        "staraCena":12999,
+        "aktuelnaCena":10999
+    },
+    "slika":"assets/img/kid-06.jpg",
+    "ocena":5,
+    "najProdavaniji":true,
+    "sezona":{
+        "id":2,
+        "naziv":"leto"
+    }
+},
+{
+    "id":18,
+    "naziv":"Ray Ban Naocare",
+    "kategorijaId":[9],
+    "pol":"m", 
+    "brendId":9,
+    "cena":{
+        "staraCena":"",
+        "aktuelnaCena":10100
+    },
+    "slika":"assets/img/men-07.jpg",
+    "ocena":5,
+    "najProdavaniji":true,
+    "sezona":{
+        "id":2,
+        "naziv":"leto"
+    }
+},
+{
+    "id":19,
+    "naziv":"Zed Kosulja + Kaput",
+    "kategorijaId":[1,7],
+    "pol":"m", 
+    "brendId":8,
+    "cena":{
+        "staraCena":19999,
+        "aktuelnaCena":18999
+    },
+    "slika":"assets/img/men-06.jpg",
+    "ocena":4,
+    "najProdavaniji":true,
+    "sezona":{
+        "id":1,
+        "naziv":"zima"
+    }
+},{
+    "id":20,
+    "naziv":"Lazy Majca",
+    "kategorijaId":[3],
+    "pol":"m", 
+    "brendId":2,
+    "cena":{
+        "staraCena":"",
+        "aktuelnaCena":2499
+    },
+    "slika":"assets/img/men-08.jpg",
+    "ocena":3,
+    "najProdavaniji":true,
+    "sezona":{
+        "id":2,
+        "naziv":"leto"
+    }
+},
+{
+    "id":21,
+    "naziv":"Cream Kaput",
+    "kategorijaId":[1],
+    "pol":"m", 
+    "brendId":3,
+    "cena":{
+        "staraCena":9999,
+        "aktuelnaCena":7899
+    },
+    "slika":"assets/img/men-09.jpg",
+    "ocena":4,
+    "najProdavaniji":true,
+    "sezona":{
+        "id":1,
+        "naziv":"zima"
+    }
+},
+{
+    "id":22,
+    "naziv":"Yellow letnji duks",
+    "kategorijaId":[2],
+    "pol":"m", 
+    "brendId":4,
+    "cena":{
+        "staraCena":"",
+        "aktuelnaCena":4999
+    },
+    "slika":"assets/img/men-10.jpg",
+    "ocena":4,
+    "najProdavaniji":true,
+    "sezona":{
+        "id":2,
+        "naziv":"leto"
+    }
+},
+{
+    "id":23,
+    "naziv":"Rock kaput",
+    "kategorijaId":[1],
+    "pol":"m", 
+    "brendId":1,
+    "cena":{
+        "staraCena":13999,
+        "aktuelnaCena":6599
+    },
+    "slika":"assets/img/men-11.jpg",
+    "ocena":1,
+    "najProdavaniji":false,
+    "sezona":{
+        "id":1,
+        "naziv":"zima"
+    }
+},
+{
+    "id":24,
+    "naziv":"Time Duks",
+    "kategorijaId":[2],
+    "pol":"z", 
+    "brendId":6,
+    "cena":{
+        "staraCena":"",
+        "aktuelnaCena":6799
+    },
+    "slika":"assets/img/women-07.jpg",
+    "ocena":5,
+    "najProdavaniji":true,
+    "sezona":{
+        "id":1,
+        "naziv":"zima"
+    }
+},
+{
+    "id":25,
+    "naziv":"Sportske trenerke",
+    "kategorijaId":[10],
+    "pol":"z", 
+    "brendId":2,
+    "cena":{
+        "staraCena":4599,
+        "aktuelnaCena":2999
+    },
+    "slika":"assets/img/women-08.jpg",
+    "ocena":3,
+    "najProdavaniji":true,
+    "sezona":{
+        "id":1,
+        "naziv":"zima"
+    }
+},
+{
+    "id":26,
+    "naziv":"Lan Košulja",
+    "kategorijaId":[7],
+    "pol":"z", 
+    "brendId":7,
+    "cena":{
+        "staraCena":10999,
+        "aktuelnaCena":9999
+    },
+    "slika":"assets/img/women-09.jpg",
+    "ocena":5,
+    "najProdavaniji":true,
+    "sezona":{
+        "id":2,
+        "naziv":"leto"
+    }
+},
+{
+    "id":27,
+    "naziv":"Plen Majca",
+    "kategorijaId":[3],
+    "pol":"z", 
+    "brendId":2,
+    "cena":{
+        "staraCena":"",
+        "aktuelnaCena":1999
+    },
+    "slika":"assets/img/women-10.jpg",
+    "ocena":5,
+    "najProdavaniji":true,
+    "sezona":{
+        "id":2,
+        "naziv":"Leto"
+    }
+},
+{
+    "id":28,
+    "naziv":"Greec Haljina",
+    "kategorijaId":[5],
+    "pol":"z", 
+    "brendId":6,
+    "cena":{
+        "staraCena":5999,
+        "aktuelnaCena":4999
+    },
+    "slika":"assets/img/women-11.jpg",
+    "ocena":3,
+    "najProdavaniji":true,
+    "sezona":{
+        "id":2,
+        "naziv":"leto"
+    }
+},
+{
+    "id":29,
+    "naziv":"Salu Haljina - Dzemper",
+    "kategorijaId":[5,6],
+    "pol":"z", 
+    "brendId":3,
+    "cena":{
+        "staraCena":5999,
+        "aktuelnaCena":1999
+    },
+    "slika":"assets/img/women-12.jpg",
+    "ocena":2,
+    "najProdavaniji":false,
+    "sezona":{
+        "id":2,
+        "naziv":"leto"
+    }
+},
+{
+    "id":30,
+    "naziv":"Corel Majca",
+    "kategorijaId":[3],
+    "pol":"z", 
+    "brendId":3,
+    "cena":{
+        "staraCena":"",
+        "aktuelnaCena":2599
+    },
+    "slika":"assets/img/women-13.jpg",
+    "ocena":4,
+    "najProdavaniji":true,
+    "sezona":{
+        "id":2,
+        "naziv":"zima"
+    }
+}
+]

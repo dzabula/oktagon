@@ -1,0 +1,37 @@
+[
+    {
+    "id":"index",
+    "link":"index.php",
+    "txt":"Pocetna"
+    },
+    {
+        "id":"men",
+        "link":"proizvodi.php?filter=odaberitePol&vrednost=m&filter2=null&vrednost2=null",
+        "aditionalLink":{
+            "id":"aditionalMen",
+            "naziv":["zima","leto"],
+            "podLink":["proizvodi.php?filter=odaberitePol&vrednost=m&filter2=odaberiteSezonu&vrednost2=zima","proizvodi.php?filter=odaberitePol&vrednost=m&filter2=odaberiteSezonu&vrednost2=leto"]
+        },
+        "txt":"Muskarci"
+    },
+    {
+        "id":"women",
+        "link":"proizvodi.php?filter=odaberitePol&vrednost=z&filter2=null&vrednost2=null",
+        "aditionalLink":{
+            "id":"aditionalWomen",
+            "naziv":["zima","leto"],
+            "podLink":["proizvodi.php?filter=odaberitePol&vrednost=z&filter2=odaberiteSezonu&vrednost2=zima","proizvodi.php?filter=odaberitePol&vrednost=z&filter2=odaberiteSezonu&vrednost2=leto"]   
+        },
+        "txt":"Zene"
+    },
+    {
+        "id":"kids",
+        "link":"proizvodi.php?filter=odaberitePol&vrednost=k&filter2=null&vrednost2=null",
+        "txt":"Deca"
+    },
+    {
+        "id":"contact",
+        "link":"kontakt-autor.php",
+        "txt":"Kontakt"
+    }
+]

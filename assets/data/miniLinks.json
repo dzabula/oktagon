@@ -1,0 +1,36 @@
+[{
+    "id":"index-mini",
+    "link":"index.php",
+    "txt":"Pocetna"
+    },
+    {
+        "id":"men-mini",
+        "link":"proizvodi.php?filter=null&vrednost=null&filter2=null&vrednost2=null",
+        "aditionalLink":{
+            "id":"aditionalMen",
+            "naziv":["zima","leto"],
+            "podLink":["proizvodi.php?filter=odaberitePol&vrednost=m&filter2=odaberiteSezonu&vrednost2=zima","proizvodi.php?filter=odaberitePol&vrednost=m&filter2=odaberiteSezonu&vrednost2=leto"]
+        },
+        "txt":"Muskarci"
+
+    },
+    {
+        "id":"women-mini",
+        "link":"proizvodi.php?filter=null&vrednost=null&filter2=null&vrednost2=null",
+        "aditionalLink":{
+            "id":"aditionalWomen",
+            "naziv":["zima","leto"],
+            "podLink":["proizvodi.php?filter=odaberitePol&vrednost=z&filter2=odaberiteSezonu&vrednost2=zima","proizvodi.php?filter=odaberitePol&vrednost=z&filter2=odaberiteSezonu&vrednost2=leto"]    
+        },
+        "txt":"Zene"
+    },
+    {
+        "id":"kids-mini",
+        "link":"proizvodi.php?filter=null&vrednost=null&filter2=null&vrednost2=null",
+        "txt":"Deca"
+    },
+    {
+        "id":"contact-mini",
+        "link":"kontakt-autor.php",
+        "txt":"Kontakt"
+    }]
