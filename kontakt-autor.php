@@ -59,7 +59,7 @@
         <section id="autor" class="container d-lg-flex my-4 align-items-center">
             <div class="col-lg-8 col-12 d-flex ustify-content-start flex-column">
                 <h2 class="fw-bold">Marko Dasic</h2>
-                <h4>Student duge godine osnovnih studija</h4>
+                <h4>Student druge godine osnovnih studija</h4>
                 <h4>visoka škole ICT</h4>
                 <h4>Broj indeksa : 110/20</h4>
             </div>
