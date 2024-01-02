@@ -1,2 +1,0 @@
-Testiranje pull request-a
-Izmenjen na lokalu pa odradjen push
